@@ -1,7 +1,7 @@
 ## LABORATORY EXERCISE: CSS ##
 Your task is to edit the CSS file and design the different web pages (delete/edit the existing dummy/test code).
 1. Fork this repository and add your groupname when forking the repository.
-2. Edit the Lab4.css file. You are NOT allowed to modify/change the HTML files.
+2. Edit the Lab.css file. You are NOT allowed to modify/change the HTML files.
 3. Before your defense, push your final edited css file to your group's forked repository.
 
 Note: More details on how to fork a repo in the Lab Activity guide.
